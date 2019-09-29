@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/HHASTYs.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Tippy](https://user-images.githubusercontent.com/24701305/65826482-df6aeb80-e253-11e9-97bc-c114b92f4771.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com).
 
 ## Notes
 
